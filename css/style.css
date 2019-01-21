@@ -302,9 +302,11 @@ button:focus {
   background-image: -webkit-linear-gradient(0deg, #4dabff 0%, #62ddff 100%);
   background-image: -ms-linear-gradient(0deg, #4dabff 0%, #62ddff 100%); }
   .home_banner_area .banner_inner {
+    padding-top: 100px;
+    height: 550px;
     width: 100%; }
     .home_banner_area .banner_inner .home_left_img {
-      padding-top: 230px;
+      padding-top: 500px;
       padding-bottom: 230px; }
     .home_banner_area .banner_inner .col-lg-5 {
       vertical-align: middle;
